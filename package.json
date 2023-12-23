@@ -1,0 +1,12 @@
+{
+  "name": "hotstar_clone",
+  "version": "1.0.0",
+  "description": "This is a hotstar clone Made by Lakshay with help of GDSC,DevTown and Microsoft Learn Student Ambassador",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^16.0.0"
+  }
+}
