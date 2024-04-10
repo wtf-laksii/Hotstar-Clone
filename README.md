@@ -34,9 +34,10 @@ To experience the Hotstar Clone, follow these simple steps:
 ## Contributors
 
 - Lakshay Sharma [(https://github.com/wtf-laksii)]
+- Srishti Ahuja [()]
 
 ## License
 
 This project is licensed under the [License Name] - see the LICENSE.md file for details.
 
-Feel free to contribute and make the Hotstar Clone even better! If you encounter any issues or have suggestions, please open an [issue](https://github.com/your-username/hotstar-clone/issues).
+Feel free to contribute and make the Hotstar Clone even better! If you encounter any issues or have suggestions, please open an [issue](https://github.com/wtf-laksii/hotstar-clone/issues).
