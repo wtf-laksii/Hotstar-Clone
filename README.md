@@ -9,9 +9,6 @@ This Hotstar Clone is a project led by Lakshay in collaboration with GDSC (Googl
 ## Features
 
 - **Content Catalog:** Browse through a vast catalog of movies, TV shows, and live channels.
-- **User Authentication:** Create an account, log in, and personalize your streaming experience.
-- **Streaming:** Enjoy high-quality streaming of your favorite content in real-time.
-- **Search Functionality:** Easily find the content you love with a powerful search feature.
 - **Responsive Design:** Access Hotstar Clone from various devices with a responsive design.
 
 ## Getting Started
